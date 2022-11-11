@@ -8,5 +8,6 @@ public class gitTest {
         System.out.println("进行合并！");
         System.out.println("master-test");
         System.out.println("hot-fix test！");
+        System.out.println("在修改");
     }
 }
